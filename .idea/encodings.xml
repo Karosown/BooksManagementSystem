@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Source/Book.db" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Source/account.db" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/BOOK/BOOK.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/TOOL.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/TOOL.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
